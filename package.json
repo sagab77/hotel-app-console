@@ -1,0 +1,22 @@
+{
+  "name": "hotel-app-console",
+  "version": "1.0.0",
+  "description": "Node Hotel App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Gabriel Sava",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "hotel-app-console"
+  }
+}
+
+
+
+  
+
+
