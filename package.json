@@ -12,11 +12,8 @@
   "repository": {
     "type": "git",
     "url": "hotel-app-console"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
   }
 }
-
-
-
-  
-
-
